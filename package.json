@@ -1,6 +1,6 @@
 {
   "name": "change-calculator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "REACT100 Assignment - Change Calculator",
   "main": "server/index.js",
   "scripts": {
@@ -57,7 +57,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/origincodeacademy/startnow-react100-change-calculator.git"
+    "url": "https://github.com/Z4rkal/React-Change-Calculator"
   },
   "license": "MIT"
 }
