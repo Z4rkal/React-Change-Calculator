@@ -8,3 +8,5 @@ launch the server with `npm start`.
 
 The server listens on [port 3000](localhost:3000).
 
+A working example of the project is deployed on [Now](https://react100-change-calculator.zarkal.now.sh/)
+
